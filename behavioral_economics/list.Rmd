@@ -1,0 +1,14 @@
+---
+title: "Resource for Behaviral Economics"
+output: html_notebook
+---
+
+# Raw 
+
+## 2017-11-10 
+
+* Nature, [The rise of behavioral economics](https://www.nature.com/articles/s41562-017-0252-9)
+
+* Neil Irwin, [Why Surge Prices Make Us So Mad: What Springsteen Home Depot and a Nobel Winner Know](https://www.nytimes.com/2017/10/14/upshot/why-surge-prices-make-us-so-mad-what-springsteen-home-depot-and-a-nobel-winner-know.html)
+
+
