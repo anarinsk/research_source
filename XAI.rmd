@@ -1,0 +1,15 @@
+# Explainable AI 
+
+## First contact 
+
+  * date: 20170220 
+
+### Resources 
+
+  1. ECONOMIST, [LINK](https://www.economist.com/news/science-and-technology/21737018-if-it-cannot-who-will-trust-it-artificial-intelligence-thrive-it-must)
+  2. https://github.com/marcotcr/lime
+  3. https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning 
+  4. https://www.darpa.mil/program/explainable-artificial-intelligence
+  5. http://www.andrew.cmu.edu/user/danupam/  6. 
+
+
